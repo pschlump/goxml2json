@@ -23,3 +23,8 @@ func (n *Node) AddChild(s string, c *Node) {
 func (n *Node) IsComplex() bool {
 	return len(n.Children) > 0
 }
+
+// HasChildren returns whether it is a complex type (has children)
+func (n *Node) HasChildren() bool {
+	return len(n.Children) > 0
+}

@@ -73,10 +73,10 @@ Feel free to contribute to this project if you want to fix/extend/improve it.
 
   - [DirectX](https://github.com/directx)
   - [samuelhug](https://github.com/samuelhug)
+  - [pschlump](https://github.com/pschlump)
 
 ### TODO
 
    * Extract data types in JSON (numbers, boolean, ...)
    * Categorise errors
-   * Option to prettify the JSON output
    * Benchmark
